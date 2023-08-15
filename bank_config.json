@@ -1,0 +1,8 @@
+{
+  "PORT_SOCKET": 9000,
+  "PORT_WEB": 8080,
+  "DB_IP": "localhost",
+  "DB_NAME": "bankdb",
+  "DB_USERNAME": "root",
+  "DB_PASSWORD": ""
+}
