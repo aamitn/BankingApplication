@@ -1,4 +1,4 @@
-` Banking System Application
+### Banking System Application
 
 The Banking System Application is a multi-threaded Java application that simulates a simple banking system. It includes a web-based frontend and a socket-based GUI client implemented in Swing.
 
