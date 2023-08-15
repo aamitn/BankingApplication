@@ -58,7 +58,7 @@ The Banking System Application provides a simple and interactive platform for us
 
     shellCopy code
 
-    `cd banking-system`
+    `cd BankingApplication`
 
 3.  Make sure you have Java and Maven installed on your system.
 
