@@ -37,7 +37,7 @@ The Banking System Application provides a simple and interactive platform for us
 
 ### Using Precompiled JAR
 
-1. Download the precompiled JAR file from the [releases](https://github.com/yourusername/banking-system/releases) section.
+1. Download the precompiled JAR file from the [releases](https://github.com/aamitn/BankingApplication/releases) section.
 2. Make sure you have Java installed on your system.
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the downloaded JAR file.
@@ -52,7 +52,7 @@ The Banking System Application provides a simple and interactive platform for us
 
     shellCopy code
 
-    `git clone https://github.com/yourusername/banking-system.git`
+    `git clone https://github.com/aamitn/BankingApplication.git`
 
 2.  Navigate to the project directory:
 
